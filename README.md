@@ -13,9 +13,10 @@ import java.util.*;
 public class EBank{
   /**
   * author @bilalxD @hamaouix @ja3nit @na3iim
+  * copyright &copyright; 2018
   */
   public static void main(String[] args]{
-  
+    
     System.out.println("Happy Coding!!!");
     
   }
