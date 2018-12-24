@@ -6,5 +6,13 @@
 * NAFAR BILAL
 
 ```java
-  System.out.println("Happy Coding!!!");
+package eBank;
+
+import java.util.*;
+
+public class EBank{
+  public static void main(String[] args]{
+    System.out.println("Happy Coding!!!");
+  }
+}
 ```
