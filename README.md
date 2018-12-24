@@ -11,8 +11,13 @@ package eBank;
 import java.util.*;
 
 public class EBank{
+  /**
+  * author @hamza
+  */
   public static void main(String[] args]{
+  
     System.out.println("Happy Coding!!!");
+    
   }
 }
 ```
