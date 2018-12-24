@@ -12,7 +12,7 @@ import java.util.*;
 
 public class EBank{
   /**
-  * author @hamza
+  * author @bilalxD @hamaouix @ja3nit @na3iim
   */
   public static void main(String[] args]{
   
