@@ -13,7 +13,7 @@ import java.util.*;
 public class EBank{
   /**
   * author @bilalxD @hamaouix @ja3nit @na3iim
-  * copyright &copyright; 2018
+  * Copyright 2018 ENSA Tangier, School. All rights reserved.
   */
   public static void main(String[] args]{
     
